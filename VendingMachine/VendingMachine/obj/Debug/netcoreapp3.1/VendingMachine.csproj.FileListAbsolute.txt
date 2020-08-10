@@ -1,0 +1,13 @@
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csprojAssemblyReference.cache
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+E:\Projects\VendingMachine\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache
